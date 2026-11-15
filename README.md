@@ -4,13 +4,13 @@ O **Wakfu Damage Meter** é uma ferramenta de sobreposição (overlay) leve e em
 
 A ferramenta opera de maneira 100% passiva através da leitura dos arquivos de registro de texto (`.log`) gerados localmente pelo próprio cliente do jogo. Não há qualquer tipo de injeção de memória, interceptação de pacotes de rede ou automação de comandos, garantindo total conformidade e segurança para a conta do jogador.
 
----
+
 <div align="center">
   <a href="https://www.buymeacoffee.com/SEU_USUARIO" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
 </div>
-
+---
 ## Funcionalidades Principais
 
 * **Monitoramento em Tempo Real:** Acompanhamento instantâneo de Dano Causado, Dano Recebido, Cura realizada e Armadura concedida para até 6 aliados simultâneos.
