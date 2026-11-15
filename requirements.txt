@@ -1,0 +1,9 @@
+# Gráficos e Interface
+matplotlib>=3.7.0
+
+# Bandeja do Sistema (Tray Icon)
+pystray>=0.19.0
+Pillow>=10.0.0
+
+# Ferramenta de Compilação (Opcional, usado no build.py)
+pyinstaller>=6.0.0
