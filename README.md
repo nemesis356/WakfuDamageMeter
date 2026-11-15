@@ -10,7 +10,9 @@ A ferramenta opera de maneira 100% passiva através da leitura dos arquivos de r
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
 </div>
+
 ---
+
 ## Funcionalidades Principais
 
 * **Monitoramento em Tempo Real:** Acompanhamento instantâneo de Dano Causado, Dano Recebido, Cura realizada e Armadura concedida para até 6 aliados simultâneos.
