@@ -10,7 +10,6 @@ A ferramenta opera de maneira 100% passiva através da leitura dos arquivos de r
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
 </div>
----
 
 ## Funcionalidades Principais
 
